@@ -1,9 +1,9 @@
 import numpy as np
 import pandas as pd
 
-import statmodels
-import statmodels.api as sm
-from statmodel.tsa.stattools import  coint, adfuller
+import statsmodels
+import statsmodels.api as sm
+from statsmodel.tsa.stattools import  coint, adfuller
 
 
 # Generating random points from a normal distribution of prices. (Price vs Prob density)
