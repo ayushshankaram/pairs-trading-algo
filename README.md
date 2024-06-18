@@ -18,4 +18,4 @@ I obtained the historical financial data from [Yahoo Finance](https://finance.ya
 
 ## Installation 
 
-Install all the modules mentioned in ```requirements.txt``` .
+Install all the modules mentioned in ```requirements.txt``` on your Jupiter Notebook.
